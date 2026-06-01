@@ -150,6 +150,14 @@ All screenshots documenting deployment, configuration, RBAC implementation, perm
 
 ---
 
+## Medium Article
+
+Read the full walkthrough on Medium:
+
+https://medium.com/@asadd_56903/enterprise-active-directory-rbac-lab-a59628376c61
+
+---
+
 ## Author
 
 Asad
