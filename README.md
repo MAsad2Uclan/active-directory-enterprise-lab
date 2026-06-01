@@ -20,6 +20,26 @@ The objective was to implement a secure domain environment with Organizational U
 
 ---
 
+## Architecture
+
+```text
+DC01 (Windows Server 2022)
+│
+├── HR OU
+│   └── JohnHR
+│
+├── Finance OU
+│   └── DavidFinance
+│
+├── IT OU
+│   └── AsadAdmin
+│
+└── Workstations OU
+    └── Client01
+```
+
+---
+
 ## Lab Objectives
 
 - Deploy Active Directory Domain Services
@@ -96,6 +116,19 @@ Denied:
 
 ---
 
+## Key IAM Concepts Demonstrated
+
+- Identity Lifecycle Management
+- Role-Based Access Control (RBAC)
+- Group-Based Authorization
+- Organizational Unit Management
+- Access Governance
+- Least Privilege Access
+- Authentication and Authorization
+- Access Validation Testing
+
+---
+
 ## Skills Demonstrated
 
 - Active Directory Administration
@@ -113,7 +146,7 @@ Denied:
 
 ## Evidence
 
-All screenshots documenting the deployment and testing process are available in the Screenshots folder.
+All screenshots documenting deployment, configuration, RBAC implementation, permission assignments and access validation testing are available in the Screenshots folder.
 
 ---
 
